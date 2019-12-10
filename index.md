@@ -3,6 +3,6 @@
 
 # In this digital era let's study digitally.
 
-###Regards:
+### Regards:
 ### Prof.Gurjit Kaur
 ### Computer Science & Engineering Department
