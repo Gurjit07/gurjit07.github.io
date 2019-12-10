@@ -2,5 +2,7 @@
 
 
 # In this digital era let's study digitally.
-## Prof.Gurjit Kaur
+
+
+### Prof.Gurjit Kaur
 ### Computer Science & Engineering Department
